@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Selamat Tengahari Sabak Bernam
 ---
 
-Hello world, first post!
+Hi all, this is first post from sabak bernam
