@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Desh Raj
+title: Ruang Renyuk
 
 # Short description of your site
 description: Personal Website
@@ -30,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://avatars.githubusercontent.com/u/41872606?v=4"
+avatar: "/static/img/41872606.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -43,7 +43,7 @@ avatar: "https://avatars.githubusercontent.com/u/41872606?v=4"
 author:
   name: Fawwaz
   github: knabenphysik    # eg. daattali
-  linkedin: rdesh26
+  linkedin: fawwazmj
   twitter: kuarkdelima
 
 # Select which links to show in the footer
