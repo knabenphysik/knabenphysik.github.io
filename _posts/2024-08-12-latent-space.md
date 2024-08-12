@@ -38,6 +38,8 @@ You can say that latent spaces are important mainly in two view:
 - they can provide insights into the data, revealing important relationships we are unaware of
 - can serve as feature spaces for downstream machine learning applications
 
+Thus, the usage of latent space in generative modeling aims to infer some actual data distribution is sound.
+
 ## Reference
 
 [^1]: Wei Qi Yan, [Computational Methods for Deep Learning: Theoretic, Practice and Applications](https://link.springer.com/book/10.1007/978-3-030-61081-4),2021
